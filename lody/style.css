@@ -1,0 +1,20 @@
+table{
+  
+  color:pink;
+  border-radius: 8px;
+  width:100%;
+}
+
+
+.tresc {
+	font-family: Arial;
+	color: red;
+	background-image: url('https://walldeco.ua/img/gallery/7/thumbs/thumb_l_40417.jpg'); 
+	width: 750; 
+	height: 400;
+}
+
+#linia {
+	border-bottom: 2px solid red;
+}
+
