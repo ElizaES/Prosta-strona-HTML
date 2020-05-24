@@ -1,8 +1,14 @@
 # Prosta-strona-HTML
-Strona internetowa wykorzystująca elementy tabela, obraz tła, wideo, czcionki i inne
+### Projekt jest zrobiony jako strona sklepu internetowego,
+### aby pokazać podstawowe funkcje html:
 
-Strona internetowa o zaplanowanych poniżej elementach z wykorzystaniem tabel
-1. W Menu nawigacyjnym trzy odnośniki (linki) do podstron składowych.
-2. W nagłówku strony logo ze znakiem firmowym.
-3. Opis zamieszczony na stronie głównej (krótki tekst sformatowany: czcionka: arial, kolor czerwony, obrazek jako tło, lista numerowana, lista punktowana, linia pozioma)
-4. W bloku nowości filmik z youtube.
+* **tworzenie tabel**
+* **umieszczanie zdjęć**
+* **umieszczanie filmików z Youtube**
+* **umieszczanie linków** 
+
+**Wygląd pierwszej strony sklepu internetowego:** 
+
+![alt text](1.png)
+
+###### Projekt zawiera pliki html i css
